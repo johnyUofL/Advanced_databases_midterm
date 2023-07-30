@@ -32,9 +32,7 @@ exports.getGraphData = (req, res) => {
         year: year,
       });
     } else {
-      res.render("no-data", {
-        message: "No data found for the given parameters.",
-      });
+      res.render("error", { error: "No data found for the given parameters." });
     }
   });
 };
@@ -67,10 +65,11 @@ exports.getSelectors = (req, res) => {
     .then((data) => {
       const [years, countries, indicators] = data;
       res.render("home", { years, countries, indicators });
-      //db.end(); // Close the database connection
+      
     })
     .catch((err) => {
       console.log(err);
       res.render("error", { error: err });
     });
 };
+
