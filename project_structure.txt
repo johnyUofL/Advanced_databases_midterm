@@ -1,0 +1,23 @@
+--- Folder Structure ---
+app.js
+migration.js
+package-lock.json
+package.json
+[public]
+    ├── logo.png
+[RAW_data]
+    ├── Data.csv
+    └── sql
+[server]
+    ├── [controllers]
+        └── appController.js
+    └── [routes]
+        └── user.js
+[views]
+    ├── home.hbs
+    ├── [layouts]
+        └── main.hbs
+    └── [partials]
+        ├── cdnIncludes.hbs
+        ├── head.hbs
+        └── header.hbs

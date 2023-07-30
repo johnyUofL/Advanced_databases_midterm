@@ -1,0 +1,30 @@
+CREATE DATABASE WorldBankData;
+
+USE WorldBankData;
+
+CREATE TABLE Countries (
+    CountryID INT NOT NULL AUTO_INCREMENT,
+    CountryName VARCHAR(255),
+    CountryCode VARCHAR(3),
+    PRIMARY KEY (CountryID),
+    UNIQUE (CountryCode)
+);
+
+CREATE TABLE Series (
+    SeriesID INT NOT NULL AUTO_INCREMENT,
+    SeriesName TEXT,
+    SeriesCode VARCHAR(255),
+    PRIMARY KEY (SeriesID),
+    UNIQUE (SeriesCode)
+);
+
+CREATE TABLE YearData (
+    ID INT NOT NULL AUTO_INCREMENT,
+    Year INT,
+    Value FLOAT,
+    CountryID INT,
+    SeriesID INT,
+    PRIMARY KEY (ID),
+    FOREIGN KEY (CountryID) REFERENCES Countries(CountryID),
+    FOREIGN KEY (SeriesID) REFERENCES Series(SeriesID)
+);

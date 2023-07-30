@@ -1,0 +1,18 @@
+<form action="/graph" method="GET">
+  <select name="year">
+    {{#each years}}
+      <option value="{{this.Year}}">{{this.Year}}</option>
+    {{/each}}
+  </select>
+  <select name="indicator">
+    {{#each indicators}}
+      <option value="{{this.SeriesName}}">{{this.SeriesName}}</option>
+    {{/each}}
+  </select>
+  <select name="country">
+    {{#each countries}}
+      <option value="{{this.CountryName}}">{{this.CountryName}}</option>
+    {{/each}}
+  </select>
+  <button type="submit">Submit</button>
+</form>
