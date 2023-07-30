@@ -32,7 +32,9 @@ exports.getGraphData = (req, res) => {
         year: year,
       });
     } else {
-      res.render("error", { error: "No data found for the given parameters." });
+      res.render("no-data", {
+        message: "No data found for the given parameters.",
+      });
     }
   });
 };
