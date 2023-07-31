@@ -1,4 +1,4 @@
-<form action="/graph" method="GET">
+<form action="/api/graph" method="GET">
   <select name="year">
     {{#each years}}
       <option value="{{this.Year}}">{{this.Year}}</option>
@@ -15,4 +15,13 @@
     {{/each}}
   </select>
   <button type="submit">Submit</button>
+
 </form>
+
+<div id="result"></div>
+
+<script
+  src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+></script>
+
+<script src="/main.js"></script>

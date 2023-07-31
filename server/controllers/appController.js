@@ -10,29 +10,26 @@ const db = mysql.createConnection({
 exports.getGraphData = (req, res) => {
   const { year, country, indicator } = req.query;
 
-  const query = `
-    SELECT y.Value, c.CountryName, s.SeriesName 
-    FROM YearData y
-    INNER JOIN Countries c ON y.CountryID = c.CountryID
-    INNER JOIN Series s ON y.SeriesID = s.SeriesID
-    WHERE c.CountryName = '${country}' AND s.SeriesName = '${indicator}' AND y.Year = ${year}
-  `;
+  let sql = `SELECT y.Value, c.CountryName, s.SeriesName
+             FROM YearData y
+             INNER JOIN Countries c ON y.CountryID = c.CountryID
+             INNER JOIN Series s ON y.SeriesID = s.SeriesID
+             WHERE c.CountryName = ? AND s.SeriesName = ? AND y.Year = ?`;
 
-  db.query(query, (err, results) => {
+  db.query(sql, [country, indicator, year], (err, results) => {
     if (err) {
       console.log(err);
-      res.render("error", { error: err });
+      res.json({ error: err.message });
     } else if (results.length > 0) {
-      // Assuming the query only returns one row
       const result = results[0];
-      res.render("display", {
+      res.json({
         value: result.Value,
         country: result.CountryName,
         indicator: result.SeriesName,
         year: year,
       });
     } else {
-      res.render("error", { error: "No data found for the given parameters." });
+      res.json({ message: "No data found for the given parameters." });
     }
   });
 };
@@ -65,11 +62,9 @@ exports.getSelectors = (req, res) => {
     .then((data) => {
       const [years, countries, indicators] = data;
       res.render("home", { years, countries, indicators });
-      
     })
     .catch((err) => {
       console.log(err);
       res.render("error", { error: err });
     });
 };
-
