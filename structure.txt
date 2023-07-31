@@ -4,6 +4,7 @@ package-lock.json
 package.json
 [public]
     ├── logo.png
+    ├── main.css
     └── main.js
 [RAW_data]
     ├── Data.csv
@@ -13,10 +14,10 @@ package.json
         └── appController.js
     └── [routes]
         └── user.js
+structure.txt
 [views]
-    ├── display.hbs
-    ├── error.hbs
-    ├── graph.hbs
+    ├── dataCountryIndicator.hbs
+    ├── dataQuery.hbs
     ├── home.hbs
     ├── [layouts]
         └── main.hbs
