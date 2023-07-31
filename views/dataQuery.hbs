@@ -1,0 +1,40 @@
+<div class="container mt-5">
+  <form action="/api/data" method="GET">
+    <div class="form-group">
+      <label for="country">Country</label>
+      <select name="country" class="form-control" id="country">
+        {{#each countries}}
+          <option value="{{this.CountryName}}">{{this.CountryName}}</option>
+        {{/each}}
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="year">Year</label>
+      <select name="year" class="form-control" id="year">
+        {{#each years}}
+          <option value="{{this.Year}}">{{this.Year}}</option>
+        {{/each}}
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="indicator">Indicator</label>
+      <select name="indicator" class="form-control" id="indicator">
+        {{#each indicators}}
+          <option value="{{this.SeriesName}}">{{this.SeriesName}}</option>
+        {{/each}}
+      </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+
+  <div id="result" class="mt-4"></div>
+</div>
+
+<script
+  src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+></script>
+
+<script src="/main.js"></script>

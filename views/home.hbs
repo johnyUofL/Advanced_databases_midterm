@@ -1,40 +1,24 @@
-<div class="container mt-5">
-  <form action="/api/data" method="GET">
-    <div class="form-group">
-      <label for="country">Country</label>
-      <select name="country" class="form-control" id="country">
-        {{#each countries}}
-          <option value="{{this.CountryName}}">{{this.CountryName}}</option>
-        {{/each}}
-      </select>
-    </div>
-
-    <div class="form-group">
-      <label for="year">Year</label>
-      <select name="year" class="form-control" id="year">
-        {{#each years}}
-          <option value="{{this.Year}}">{{this.Year}}</option>
-        {{/each}}
-      </select>
-    </div>
-
-    <div class="form-group">
-      <label for="indicator">Indicator</label>
-      <select name="indicator" class="form-control" id="indicator">
-        {{#each indicators}}
-          <option value="{{this.SeriesName}}">{{this.SeriesName}}</option>
-        {{/each}}
-      </select>
-    </div>
-
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </form>
-
-  <div id="result" class="mt-4"></div>
+<div class="card text-center">
+  <div class="card-header">
+    Data by selecting Country, Year, and Indicator.
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Single Data Query</h5>
+    <p class="card-text">Data can be displayed by selecting country, year, and
+      indicator using a drop-down menu.
+    </p>
+    <a href="/dataQuery" class="btn btn-primary">Go to APP</a>
+  </div>
 </div>
 
-<script
-  src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
-></script>
-
-<script src="/main.js"></script>
+<div class="card text-center">
+  <div class="card-header">
+    APP by country and indicator.
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Data by Country and indicator</h5>
+    <p class="card-text">Data available for all years is displayed using this
+      app.</p>
+    <a href="/dataQuery" class="btn btn-primary">Go to APP</a>
+  </div>
+</div>

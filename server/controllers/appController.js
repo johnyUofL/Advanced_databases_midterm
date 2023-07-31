@@ -61,10 +61,16 @@ exports.getSelectors = (req, res) => {
   ])
     .then((data) => {
       const [years, countries, indicators] = data;
-      res.render("home", { years, countries, indicators });
+      res.render("dataQuery", { years, countries, indicators });
     })
     .catch((err) => {
       console.log(err);
       res.render("error", { error: err });
     });
 };
+
+exports.getHome = (req, res) => {
+  res.render("home");
+};
+
+
