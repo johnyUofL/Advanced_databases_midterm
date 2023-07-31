@@ -7,7 +7,7 @@ $(document).ready(function () {
     const country = $('select[name="country"]').val();
 
     $.ajax({
-      url: "/api/graph",
+      url: "/api/data",
       type: "GET",
       data: {
         year: year,
@@ -21,10 +21,10 @@ $(document).ready(function () {
           $("#result").html("<p>" + data.message + "</p>");
         } else {
           $("#result").html(`
-            <p>Value: ${data.value}</p>
-            <p>Country: ${data.country}</p>
-            <p>Indicator: ${data.indicator}</p>
-            <p>Year: ${data.year}</p>
+ 
+            <h1>Data for ${data.country} in ${data.year}</h1>
+            <p>The ${data.indicator} is ${data.value}.</p>
+
           `);
         }
       },

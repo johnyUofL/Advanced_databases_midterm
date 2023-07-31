@@ -2,7 +2,6 @@ const bodyParser = require("body-parser");
 const express = require("express");
 const exphbs = require("express-handlebars");
 const mysql = require("mysql");
-const favicon = require("serve-favicon");
 const path = require("path");
 
 //Adding dotenv to use environment variables
@@ -12,14 +11,12 @@ require("dotenv").config();
 const app = express();
 const port = 3000;
 //parsing middleware
-//parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }));
 //parse application/json
 app.use(bodyParser.json());
 //static files
 app.use(express.static("public"));
-//serve favicon
-//app.use(favicon(path.join(__dirname, "public", "favicon.ico")));
+//set views file
 //template engine
 app.engine("hbs", exphbs({ extname: ".hbs" }));
 app.set("view engine", "hbs");

@@ -3,6 +3,6 @@ const router = express.Router();
 const appController = require("../controllers/appController");
 
 router.get("/", appController.getSelectors);
-router.get("/api/graph", appController.getIndicatorData);
+router.get("/api/data", appController.getIndicatorData);
 
 module.exports = router;
