@@ -7,7 +7,7 @@ const db = mysql.createConnection({
   database: "WorldBankData",
 });
 
-exports.getGraphData = (req, res) => {
+exports.getIndicatorData = (req, res) => {
   const { year, country, indicator } = req.query;
 
   let sql = `SELECT y.Value, c.CountryName, s.SeriesName
