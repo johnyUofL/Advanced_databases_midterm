@@ -34,7 +34,7 @@ $(document).ready(function () {
     });
   });
 
-  // Handle the second form submission for /api/datacountryindicator
+
   // Handle the second form submission for /api/datacountryindicator
   $("#form2").submit(function (event) {
     event.preventDefault(); // Prevent the default form submission behavior
@@ -51,11 +51,20 @@ $(document).ready(function () {
         indicator: indicator,
       },
       success: function (response) {
-        console.log(response); // Log the response
+        console.log(response); 
 
         // Get the data for the chart
         const years = response.data.map((item) => item.year);
         const values = response.data.map((item) => item.value);
+
+        // Array of 5 colors to change the bar colors
+        const colors = [
+          "rgba(75, 192, 192, 0.7)",
+          "rgba(192, 75, 75, 0.7)",
+          "rgba(192, 192, 75, 0.7)",
+          "rgba(75, 192, 75, 0.7)",
+          "rgba(192, 75, 192, 0.7)",
+        ];
 
         // Create the chart
         const ctx = document.getElementById("chart").getContext("2d");
@@ -63,15 +72,15 @@ $(document).ready(function () {
           window.myChart.destroy();
         }
         window.myChart = new Chart(ctx, {
-          type: "line",
+          type: "bar",
           data: {
             labels: years,
             datasets: [
               {
                 label: `${indicator} for ${country}`,
                 data: values,
-                backgroundColor: "rgba(75, 192, 192, 0.2)",
-                borderColor: "rgba(75, 192, 192, 1)",
+                backgroundColor: colors,
+                borderColor: "rgba(75, 0, 0, 1)",
                 borderWidth: 1,
               },
             ],
