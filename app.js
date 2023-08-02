@@ -48,5 +48,5 @@ pool.getConnection((err, connection) => {
 const routes = require("./server/routes/user");
 app.use("/", routes);
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`);
+  console.log(`Example app listening at us-cdbr-east-06.cleardb.net:${port}`);
 });
