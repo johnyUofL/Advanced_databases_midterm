@@ -22,13 +22,22 @@ app.use(express.static("public"));
 app.engine("hbs", exphbs({ extname: ".hbs" }));
 app.set("view engine", "hbs");
 
-// Create a connection pool
-const pool = mysql.createPool({
+// Create a connection pool for local host
+/* const pool = mysql.createPool({
   connectionLimit: 10, // adjust as needed
   host: "127.0.0.1",
   user: "admin",
   password: "",
   database: "worldbankdata",
+}); */
+
+// Create a connection pool for cloud database
+const pool = mysql.createPool({
+  connectionLimit: 10,
+  host: "us-cdbr-east-06.cleardb.net",
+  user: "ab275bc5ed587c1",
+  password: "c7e8c847",
+  database: "heroku_8c1da5de8b5f129",
 });
 
 //connect to database
