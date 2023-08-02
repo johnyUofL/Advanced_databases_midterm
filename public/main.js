@@ -1,5 +1,7 @@
 $(document).ready(function () {
   // Handle the first form submission
+
+  /////////////////////////////////////////////////////////////////////////////////////
   $("#form1").submit(function (event) {
     event.preventDefault(); // Prevent the default form submission behavior
 
@@ -33,6 +35,9 @@ $(document).ready(function () {
       },
     });
   });
+  ///////////////////////////////////////////////////////////////////////////////////
+  /////////////////////////////////////////////////////////////////////////////////////////
+  // Handle the second form submission
   // Initialize the chart variable
   let myChart;
 
@@ -46,7 +51,7 @@ $(document).ready(function () {
         const originalHeight = myChart.height;
 
         // Temporarily increase the chart size to ensure the entire chart is captured
-        myChart.resize(1200, 600);
+        myChart.resize(1000, 500);
 
         // Convert the chart to a base64 image
         const base64URL = myChart.toBase64Image();
@@ -109,8 +114,6 @@ $(document).ready(function () {
     });
   }
 
-  // Handle the second form submission
-
   $("#form2").submit(function (event) {
     event.preventDefault(); // Prevent the default form submission behavior
 
@@ -134,4 +137,8 @@ $(document).ready(function () {
       },
     });
   });
+
+  /////////////////////////////////////////////////////////////////////////////////////
+  ///////////////////////////////////////////////////////////////////////////////////////
+  // Handle the third form submission
 });
