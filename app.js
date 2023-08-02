@@ -6,6 +6,20 @@ const path = require("path");
 
 //Adding dotenv to use environment variables
 require("dotenv").config();
+// Create a connection pool for cloud database
+const pool = mysql.createPool({
+  connectionLimit: 10,
+  host: "us-cdbr-east-06.cleardb.net",
+  user: "ab275bc5ed587c1",
+  password: "c7e8c847",
+  database: "heroku_8c1da5de8b5f129",
+});
+
+//connect to database
+pool.getConnection((err, connection) => {
+  if (err) throw err; //not connected
+  console.log("Connected as ID " + connection.threadId);
+});
 
 //create express app
 const app = express();
@@ -31,22 +45,10 @@ app.set("view engine", "hbs");
   database: "worldbankdata",
 }); */
 
-// Create a connection pool for cloud database
-const pool = mysql.createPool({
-  connectionLimit: 10,
-  host: "us-cdbr-east-06.cleardb.net",
-  user: "ab275bc5ed587c1",
-  password: "c7e8c847",
-  database: "heroku_8c1da5de8b5f129",
-});
 
-//connect to database
-pool.getConnection((err, connection) => {
-  if (err) throw err; //not connected
-  console.log("Connected as ID " + connection.threadId);
-});
 const routes = require("./server/routes/user");
 app.use("/", routes);
-app.listen(port, () => {
-  console.log(`Example app listening at us-cdbr-east-06.cleardb.net:${port}`);
+
+app.listen(PORT, () => {
+  console.log(`Example app listening at us-cdbr-east-06.cleardb.net:${PORT}`);
 });
