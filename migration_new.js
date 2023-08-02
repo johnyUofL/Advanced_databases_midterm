@@ -3,13 +3,22 @@ const csv = require("csv-parser");
 const mysql = require("mysql");
 const util = require("util");
 
-// Create a connection pool
+/* // Create a connection pool to local database
 const pool = mysql.createPool({
   connectionLimit: 10,
   host: "127.0.0.1",
   user: "admin",
   password: "",
   database: "worldbankdata",
+}); */
+
+// Create a connection pool to cloud database
+const pool = mysql.createPool({
+  connectionLimit: 10,
+  host: "us-cdbr-east-06.cleardb.net",
+  user: "b275bc5ed587c1",
+  password: "c7e8c847",
+  database: "heroku_8c1da5de8b5f129",
 });
 
 // Promisify for Node.js async/await
@@ -18,7 +27,10 @@ pool.query = util.promisify(pool.query);
 // Define promises array outside the data event handler
 const promises = [];
 
-fs.createReadStream("RAW_data/Data.csv")
+//fs.createReadStream("RAW_data/Data.csv")
+//For the cloud the amount of data is limited to 5,000 rows. While the local database can handle the entire dataset of more than 100,000 rows.
+//This is due to the free tier of the cloud database.
+fs.createReadStream("RAW_data/DataCloud.csv") //Migration CSV for data in the cloud.
   .pipe(csv())
   .on("data", (row) => {
     const countryName = row["Country Name"];

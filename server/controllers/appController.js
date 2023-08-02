@@ -1,10 +1,19 @@
 const mysql = require("mysql");
 
-const db = mysql.createConnection({
+//connection to local database
+/* const db = mysql.createConnection({
   host: "127.0.0.1",
   user: "admin",
   password: "",
   database: "WorldBankData",
+}); */
+
+//connection to cloud database
+const db = mysql.createConnection({
+  host: "us-cdbr-east-06.cleardb.net",
+  user: "b275bc5ed587c1",
+  password: "c7e8c847",
+  database: "heroku_8c1da5de8b5f129",
 });
 
 exports.getIndicatorData = (req, res) => {

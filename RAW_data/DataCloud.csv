@@ -1,0 +1,373 @@
+﻿Country Name,Country Code,Series Name,Series Code,2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019]
+Afghanistan,AFG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,27.4,28.6,29.7,30.9,31.9
+Albania,ALB,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,76.2,77.8,78.7,79.8,80.7
+Australia,AUS,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100
+Austria,AUT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100
+Afghanistan,AFG,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.5,97.69999695,97.69999695,96.61613464,97.69999695
+Albania,ALB,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.98000336,99.88999939,99.88999939,100,100
+Australia,AUS,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+Austria,AUT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+Afghanistan,AFG,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.57335663,97.0993576,97.09197235,95.58617401,97.07563019
+Albania,ALB,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100
+Australia,AUS,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100
+Austria,AUT,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100,100,100,100,100
+Afghanistan,AFG,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.5,99.5,99.5,99.62602234,99.5
+Albania,ALB,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100
+Australia,AUS,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100
+Austria,AUT,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100,100,100,100,100
+Afghanistan,AFG,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,..,..,..
+Albania,ALB,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,-0.05640822,1.0422042,-0.07170126,0.25047796,-2.0803741
+Australia,AUS,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,7.1495892,5.1020565,6.3716474,6.0403124,6.8675771
+Austria,AUT,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,12.365077,13.687317,12.970606,13.341018,14.020327
+Afghanistan,AFG,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,1073.345203,1119.92613,1191.88223,1118.64522,1284.510343
+Albania,ALB,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,5057.191269,5106.417246,5239.147554,5121.631575,5133.274733
+Australia,AUS,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,102737.0995,94351.98797,102052.2948,96313.75339,86838.24889
+Austria,AUT,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,22643.17535,23775.98583,27375.72184,29749.6947,29518.53267
+Afghanistan,AFG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,33.10203859,29.0108809,21.46255651,29.5593488,20.01420595
+Albania,ALB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,..,..,..,0,0
+Australia,AUS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1907.051909,1868.732628,1982.586171,2027.63711,1931.155531
+Austria,AUT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,351.379,387.739,391.268,373.511,320.036527
+Afghanistan,AFG,"Air transport, passengers carried",IS.AIR.PSGR,1929907,1917924,1647425,1125367,1066747.356
+Albania,ALB,"Air transport, passengers carried",IS.AIR.PSGR,..,26634,204090,303137,307741
+Australia,AUS,"Air transport, passengers carried",IS.AIR.PSGR,69779346,72446421,74257326,75667645.03,76850596.72
+Austria,AUT,"Air transport, passengers carried",IS.AIR.PSGR,14718641,14724774,16171640,12935505,46476602
+Afghanistan,AFG,Aquaculture production (metric tons),ER.FSH.AQUA.MT,5450,6150,7000,7950,..
+Albania,ALB,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3495,4750,4430,6258,..
+Australia,AUS,Aquaculture production (metric tons),ER.FSH.AQUA.MT,83725.21094,92449.89063,89824.92188,96798.52344,..
+Austria,AUT,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3503.399902,3483.399902,3861.600098,3990.600098,..
+Afghanistan,AFG,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,9.232693676,11.43709717,11.69893586,11.08362924,..
+Albania,ALB,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,8.430987117,8.747228007,9.018649224,9.150812529,9.078414342
+Australia,AUS,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,5.317317597,5.443972571,5.912719061,5.91854177,6.198626318
+Austria,AUT,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,7.446891279,7.334234175,7.541992275,7.707002394,7.949258695
+Afghanistan,AFG,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,12.05361798,11.07437896,12.20183019,8.886660184,..
+Albania,ALB,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,16.84245369,16.55451275,11.97172278,10.42739007,7.972229838
+Australia,AUS,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,0.888725499,0.947676353,0.85701375,0.901855194,0.961493162
+Austria,AUT,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,3.392837284,2.695217415,2.368895442,1.882428564,1.62862136
+Afghanistan,AFG,"Bird species, threatened",EN.BIR.THRD.NO,..,..,..,16,..
+Albania,ALB,"Bird species, threatened",EN.BIR.THRD.NO,..,..,..,8,..
+Australia,AUS,"Bird species, threatened",EN.BIR.THRD.NO,..,..,..,52,..
+Austria,AUT,"Bird species, threatened",EN.BIR.THRD.NO,..,..,..,13,..
+Afghanistan,AFG,Broad money growth (annual %),FM.LBL.BMNY.ZG,3.079021968,9.72542826,4.093274968,2.574153785,5.704360373
+Albania,ALB,Broad money growth (annual %),FM.LBL.BMNY.ZG,1.764720649,3.88758243,0.274642648,-0.221006685,4.313638629
+Australia,AUS,Broad money growth (annual %),FM.LBL.BMNY.ZG,5.984082435,6.666188127,4.521987656,2.373822341,14.05953319
+Austria,AUT,Broad money growth (annual %),FM.LBL.BMNY.ZG,..,..,..,..,..
+Afghanistan,AFG,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,1750,1900,2000,2050,..
+Albania,ALB,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,7855.5,7861.700195,8564.200195,8648.299805,..
+Australia,AUS,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,203270.7188,220959.375,229645.4375,225436.6875,..
+Austria,AUT,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,350,350,350,350,..
+Afghanistan,AFG,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2133.7,1981.9,2025.1,2164.9,..
+Albania,ALB,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4873.8,4716.4,4813,4840.5,..
+Australia,AUS,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2027.4,2075.2,2674.3,2035.5,..
+Austria,AUT,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6198.1,7246.4,6260.6,6160,..
+Afghanistan,AFG,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.401364107,0.36301876,0.353178874,0.35186576,..
+Albania,ALB,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.445250586,0.419064527,0.45858037,0.437493133,..
+Australia,AUS,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.278147276,0.276400287,0.272464314,0.264262329,..
+Austria,AUT,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.165393124,0.162783226,0.165087636,0.154456827,..
+Afghanistan,AFG,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.083595026,0.07281691,0.063979082,0.080290564,0.077395432
+Albania,ALB,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.135015473,0.126723248,0.140066641,0.133868483,0.123945165
+Australia,AUS,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.33347747,0.330755816,0.326834511,0.316006768,0.309035519
+Austria,AUT,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.138388971,0.136633586,0.138189936,0.129085671,0.130637994
+Afghanistan,AFG,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.082832511,0.075608484,0.063979082,0.078417169,0.074261266
+Albania,ALB,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.137557951,0.128958075,0.140066641,0.132072952,0.120879854
+Australia,AUS,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.343000272,0.336780314,0.326834511,0.308825598,0.294468386
+Austria,AUT,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.146736714,0.138349738,0.138189936,0.125229152,0.125593024
+Afghanistan,AFG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.172896741,0.149789334,0.131694556,0.1632953,0.159824372
+Albania,ALB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.60377515,1.557664358,1.788786074,1.782738948,1.69224832
+Australia,AUS,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.863288,15.91465712,15.81831632,15.49352925,15.23826715
+Austria,AUT,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,7.317158873,7.288819983,7.486161583,7.133063919,7.293984252
+Afghanistan,AFG,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,0.168633703,0.245751221,0.400798952,0.545866584,0.332140151
+Albania,ALB,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,0.005950484,0.000389406,0.015645872,0.033730203,0.007838654
+Australia,AUS,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,0.467132165,0.592976215,0.775574944,0.794849365,0.691330115
+Austria,AUT,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,0,0,0,0,0
+Afghanistan,AFG,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,2.16,2.11,2.04,1.96,1.87
+Albania,ALB,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,22.02,21.68,20.72,19.54,18.71
+Australia,AUS,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,28.75,27.74,29.63,28.22,26.43
+Austria,AUT,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,13.8,12.66,12.06,11.94,11.87
+Afghanistan,AFG,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,-21.91266865,-14.95020339,-18.95594795,-21.58526707,-20.17045768
+Albania,ALB,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,-8.604882722,-7.590825999,-7.544250119,-6.704918013,-7.913708743
+Australia,AUS,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,-4.217495101,-3.413143013,-2.717911242,-2.092526706,0.55019333
+Austria,AUT,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,1.736798923,2.721214306,1.354255156,0.962126078,2.099141373
+Afghanistan,AFG,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,2.805853963,3.735882022,3.548647692,2.595222694,2.390422054
+Albania,ALB,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,16.95629093,7.237367709,6.825372096,13.14150215,7.518139312
+Australia,AUS,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,..,..,..,..,..
+Austria,AUT,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,..,..,..,..,..
+Afghanistan,AFG,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.37,2.24,2.3,2.44,2.41
+Albania,ALB,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,2.69,2.68,2.69,2.57,2.5
+Australia,AUS,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,4.67,4.54,4.49,4.39,4.3
+Austria,AUT,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.01,2.98,2.97,2.81,2.82
+Afghanistan,AFG,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,13.45051864,14.18831666,14.48394629,14.68551176,13.9367649
+Albania,ALB,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,73.31355145,70.65157613,75.0984102,65.23883165,62.87958838
+Australia,AUS,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,..,..,..,..,..
+Austria,AUT,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,..,..,..,..,..
+Afghanistan,AFG,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.88400092,0.516606368,0.274796599,0.661572002,0.124495944
+Albania,ALB,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,8.69053622,8.805091978,7.855470516,7.946351351,7.797918141
+Australia,AUS,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.472167543,3.560954294,3.632469395,4.292849405,2.809090017
+Austria,AUT,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-2.088056539,-7.310916958,3.23990498,-6.284657043,-2.948459382
+Afghanistan,AFG,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,169146608,93591315.3,51533896.77,119435105.7,23404553.65
+Albania,ALB,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,989578334.8,1044389555,1022757857,1204383364,1201022154
+Australia,AUS,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,46892808568,42969505135,48198614235,61324623203,39101199005
+Austria,AUT,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,-7975773544,-28939340169,13518864836,-28605757320,-13120994313
+Afghanistan,AFG,Forest area (% of land area),AG.LND.FRST.ZS,1.850994088,1.850994088,1.850994088,1.850994088,1.850994088
+Albania,ALB,Forest area (% of land area),AG.LND.FRST.ZS,28.8024635,28.80218978,28.79206204,28.7919708,28.7919708
+Australia,AUS,Forest area (% of land area),AG.LND.FRST.ZS,17.3248246,17.42548771,17.42291362,17.42131456,17.42131456
+Austria,AUT,Forest area (% of land area),AG.LND.FRST.ZS,47.03332525,47.07695104,47.12045565,47.16396025,47.20746486
+Afghanistan,AFG,Forest area (sq. km),AG.LND.FRST.K2,12084.4,12084.4,12084.4,12084.4,12084.4
+Albania,ALB,Forest area (sq. km),AG.LND.FRST.K2,7891.875,7891.8,7889.025,7889,7889
+Australia,AUS,Forest area (sq. km),AG.LND.FRST.K2,1330945,1340372,1340174,1340051,1340051
+Austria,AUT,Forest area (sq. km),AG.LND.FRST.K2,38811.9,38847.9,38883.8,38919.7,38955.6
+Afghanistan,AFG,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.301980808,0.351214676,0.287445621,0.300160885,0.332816377
+Albania,ALB,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.191365197,0.15702342,0.183385376,0.17992859,0.138103571
+Australia,AUS,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.11603879,0.136149006,0.194302214,0.172553354,0.176488836
+Austria,AUT,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.069880627,0.06436532,0.060150434,0.078185909,0.060437782
+Afghanistan,AFG,GDP (constant 2015 US$),NY.GDP.MKTP.KD,19134211764,19566705070,20084636379,20323488525,21118462797
+Albania,ALB,GDP (constant 2015 US$),NY.GDP.MKTP.KD,11386850130,11764322012,12211628287,12702457551,12967692915
+Australia,AUS,GDP (constant 2015 US$),NY.GDP.MKTP.KD,1.35E+12,1.39E+12,1.42E+12,1.46E+12,1.49E+12
+Austria,AUT,GDP (constant 2015 US$),NY.GDP.MKTP.KD,3.82E+11,3.90E+11,3.98E+11,4.08E+11,4.14E+11
+Afghanistan,AFG,GDP (current LCU),NY.GDP.MKTP.CN,1.22E+12,1.22E+12,1.29E+12,1.33E+12,1.47E+12
+Albania,ALB,GDP (current LCU),NY.GDP.MKTP.CN,1.43E+12,1.47E+12,1.55E+12,1.64E+12,1.69E+12
+Australia,AUS,GDP (current LCU),NY.GDP.MKTP.CN,1.62E+12,1.66E+12,1.76E+12,1.84E+12,1.95E+12
+Austria,AUT,GDP (current LCU),NY.GDP.MKTP.CN,3.44E+11,3.58E+11,3.69E+11,3.85E+11,3.98E+11
+Afghanistan,AFG,GDP (current US$),NY.GDP.MKTP.CD,19134211764,18116562465,18753469630,18053228579,18799450743
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,11386850130,11861199831,13019689337,15156432310,15401830754
+Australia,AUS,GDP (current US$),NY.GDP.MKTP.CD,1.35E+12,1.21E+12,1.33E+12,1.43E+12,1.39E+12
+Austria,AUT,GDP (current US$),NY.GDP.MKTP.CD,3.82E+11,3.96E+11,4.17E+11,4.55E+11,4.45E+11
+Afghanistan,AFG,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,561.0336868,..,..,..,..
+Albania,ALB,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,3999.651604,4155.535162,4261.223774,4427.83551,4487.604801
+Australia,AUS,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,55554.92985,54843.16418,56524.34319,57251.68975,58266.41444
+Austria,AUT,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,43760.65849,44772.14284,44774.18903,45544.03752,46157.51386
+Afghanistan,AFG,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,..,..,..,..,..
+Albania,ALB,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.776762534,3.8974284,2.543321338,3.909950402,1.349853453
+Australia,AUS,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-1.009073982,-1.281192637,3.065430371,1.286784644,1.772392558
+Austria,AUT,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.512248469,2.311401112,0.004570235,1.719402424,1.346995939
+Afghanistan,AFG,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,590,550,530,510,520
+Albania,ALB,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,4390,4320,4290,4860,5230
+Australia,AUS,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,60490,54090,51480,53070,54910
+Austria,AUT,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,47480,46240,45040,49010,51010
+Afghanistan,AFG,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,..,..,2085.487571,..,..
+Albania,ALB,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,12016.2976,12484.6242,12802.14831,13302.70596,13482.27299
+Australia,AUS,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,46277.69813,45684.79166,47085.22714,47691.11262,48536.38635
+Austria,AUT,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,52450.23877,53662.57417,53665.02668,54587.74445,55323.03915
+Afghanistan,AFG,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2110,2000,2090,2100,2190
+Albania,ALB,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,11800,12280,12800,13480,13820
+Australia,AUS,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,45310,46140,47090,48600,50090
+Austria,AUT,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,49370,52680,53670,56400,57870
+Afghanistan,AFG,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,..,..,75695088355,..,..
+Albania,ALB,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,34615384551,35907040138,36786422672,38130557092,38480982237
+Australia,AUS,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,1.10E+12,1.11E+12,1.16E+12,1.19E+12,1.23E+12
+Austria,AUT,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,4.53E+11,4.69E+11,4.72E+11,4.83E+11,4.91E+11
+Afghanistan,AFG,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,72481076026,70796494470,75695088355,78210930485,83174634965
+Albania,ALB,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,33983907351,35304171240,36786422672,38643668534,39434065969
+Australia,AUS,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1.08E+12,1.12E+12,1.16E+12,1.21E+12,1.27E+12
+Austria,AUT,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,4.27E+11,4.60E+11,4.72E+11,4.99E+11,5.14E+11
+Afghanistan,AFG,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,..,..,..,..,..
+Albania,ALB,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,3.179020063,0.3087266,4.373785744,0.600137396,1.77731227
+Australia,AUS,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,..,..,..,..,..
+Austria,AUT,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,3.241584004,4.466445651,4.476895444,6.086809729,-0.174975915
+Afghanistan,AFG,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,..,..,..,..,..
+Albania,ALB,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,-2.875206445,6.920121455,8.355809406,2.396964121,2.289645471
+Australia,AUS,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,1.518684461,-0.325584798,5.247607812,6.95673617,0.201911522
+Austria,AUT,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,3.630202134,3.725740615,5.289217846,5.340687654,1.978989801
+Afghanistan,AFG,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.26,11,13.5,16.8,17.6
+Albania,ALB,Individuals using the Internet (% of population),IT.NET.USER.ZS,56.9,59.6,62.4,65.4,68.55039112
+Australia,AUS,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.56051491,86.54,86.54504885,87.6,88.6
+Austria,AUT,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.94014193,84.32374257,87.93558659,87.47913723,87.75220479
+Afghanistan,AFG,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,3154.914423,2974.040142,2996.397939,3129.497908,3145.513386
+Albania,ALB,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,12302.84353,11591.70916,11416.42638,11651.06659,11251.66103
+Australia,AUS,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,139394.4796,..,..,..,..
+Austria,AUT,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,88727.83224,90862.27482,95624.17717,96234.5754,97043.70804
+Afghanistan,AFG,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.661709165,4.383891955,4.975951506,0.626149149,2.302372515
+Albania,ALB,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.501208355,-0.36731721,2.060598459,2.028059631,1.41109079
+Australia,AUS,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.508366722,1.276990945,1.948647409,1.911400944,1.610767873
+Austria,AUT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.896563335,0.891591753,2.081269114,1.998379814,1.530895642
+Afghanistan,AFG,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,..,..,19000000,..,190490000
+Albania,ALB,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,..,..,..,..,..
+Australia,AUS,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,..,..,..,..,..
+Austria,AUT,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,..,..,..,..,..
+Afghanistan,AFG,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,..,..,54.75701904,54.75701904,..
+Albania,ALB,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,..,..,6.556490421,5.757211685,..
+Australia,AUS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,..,..,4.27449131,4.657865047,..
+Austria,AUT,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,..,..,9.643548012,9.643548012,..
+Afghanistan,AFG,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,11.420006,4.114196613,3.530422461,6.160177217,7.043181081
+Albania,ALB,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,5.671519417,5.684427418,6.158147094,6.133261972,6.256195102
+Australia,AUS,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,6.299997474,6.085499329,5.798737462,5.777271825,5.615118064
+Austria,AUT,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,16.69003646,17.04741463,16.84270767,16.82848458,16.54353279
+Afghanistan,AFG,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,2185128132,745350999.3,662076704.1,1112110874,1324079358
+Albania,ALB,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,645807416.1,674241295.3,801771620.5,929583699.1,963568581.2
+Australia,AUS,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,85083617605,73432814092,76942454182,82530036431,78159776856
+Austria,AUT,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,63751123948,67480034847,70278076016,76597902270,73620685068
+Afghanistan,AFG,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,..,..,..,..,..
+Albania,ALB,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,..,2.71443113,2.718032979,2.718032979,2.839279
+Australia,AUS,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,..,40.65344145,40.5594116,40.5594116,40.55941
+Austria,AUT,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,..,..,..,..,..
+Afghanistan,AFG,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,9.507433905,8.464749289,6.901328545,6.412409422,8.46496564
+Albania,ALB,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,5.804435386,4.468150738,4.881038212,4.609022906,4.609076442
+Australia,AUS,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,29.4487097,29.41727101,29.60550707,30.19306332,28.47752314
+Austria,AUT,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,46.17272463,46.51288925,46.47379674,45.44707605,45.35199604
+Afghanistan,AFG,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,40,40,40,40,40
+Albania,ALB,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,50,60,70,80,70
+Australia,AUS,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,..,..,..,..,..
+Austria,AUT,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,..,..,..,..,..
+Afghanistan,AFG,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.002078623,0.002797434,0,0,0
+Albania,ALB,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.065794847,0.002694133,0,0.040868827,0.036392307
+Australia,AUS,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.852635467,2.578236444,3.178551261,2.826849489,3.055556256
+Austria,AUT,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.009146037,0.011737604,0.015441949,0,0
+Afghanistan,AFG,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,4271660156,4069379883,3811699951,3791419922,4137620117
+Albania,ALB,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,335160003.7,171039993.3,168350006.1,344320007.3,27049999.24
+Australia,AUS,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,..,..,..,..,..
+Austria,AUT,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,..,..,..,..,..
+Afghanistan,AFG,Net official development assistance received (constant 2018 US$),DT.ODA.ODAT.KD,4542020020,4346879883,4003290039,3817229980,4234910156
+Albania,ALB,Net official development assistance received (constant 2018 US$),DT.ODA.ODAT.KD,333799987.8,180789993.3,176210006.7,344010009.8,28520000.46
+Australia,AUS,Net official development assistance received (constant 2018 US$),DT.ODA.ODAT.KD,..,..,..,..,..
+Austria,AUT,Net official development assistance received (constant 2018 US$),DT.ODA.ODAT.KD,..,..,..,..,..
+Afghanistan,AFG,Net official development assistance received (current US$),DT.ODA.ODAT.CD,4271660156,4069379883,3811699951,3791419922,4137620117
+Afghanistan,AFG,Net official development assistance received (current US$),DT.ODA.ODAT.CD1,4274229980,4069419922,3811739990,3788889893,..
+Albania,ALB,Net official development assistance received (current US$),DT.ODA.ODAT.CD,335160003.7,171039993.3,168350006.1,344320007.3,27049999.24
+Albania,ALB,Net official development assistance received (current US$),DT.ODA.ODAT.CD1,335160003.7,171039993.3,168210006.7,342890014.6,..
+Australia,AUS,Net official development assistance received (current US$),DT.ODA.ODAT.CD,..,..,..,..,..
+Australia,AUS,Net official development assistance received (current US$),DT.ODA.ODAT.CD1,..,..,..,..,..
+Austria,AUT,Net official development assistance received (current US$),DT.ODA.ODAT.CD,..,..,..,..,..
+Austria,AUT,Net official development assistance received (current US$),DT.ODA.ODAT.CD1,..,..,..,..,..
+Afghanistan,AFG,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,0.124470105,0.130028865,0.154863501,0.211651122,..
+Albania,ALB,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,1.318728624,1.3779071,1.528075213,1.657824765,1.633538298
+Australia,AUS,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,15.27394082,15.24800422,15.44787314,14.47961866,13.58991348
+Austria,AUT,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,0.521226518,0.514658532,0.518214579,0.508252963,0.510430237
+Afghanistan,AFG,"Patent applications, nonresidents",IP.PAT.NRES,..,..,..,..,..
+Albania,ALB,"Patent applications, nonresidents",IP.PAT.NRES,5,5,8,3,1
+Australia,AUS,"Patent applications, nonresidents",IP.PAT.NRES,26314,25774,26403,27200,27121
+Austria,AUT,"Patent applications, nonresidents",IP.PAT.NRES,236,237,232,168,208
+Afghanistan,AFG,"Patent applications, residents",IP.PAT.RESD,..,..,..,..,..
+Albania,ALB,"Patent applications, residents",IP.PAT.RESD,14,20,16,15,4
+Australia,AUS,"Patent applications, residents",IP.PAT.RESD,2291,2620,2503,2757,2637
+Austria,AUT,"Patent applications, residents",IP.PAT.RESD,2205,2078,2073,2039,2066
+Afghanistan,AFG,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,73.3333,73.3333,73.3333,70,70
+Albania,ALB,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,66.6667,86.6667,96.6667,86.6667,76.6667
+Australia,AUS,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,..,..,..,..,..
+Austria,AUT,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,..,..,..,..,..
+Afghanistan,AFG,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,1.821996754,3.464844965,4.38709021,4.450984766,4.407426129
+Albania,ALB,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,11.33644066,11.01076776,10.07568152,9.621064021,9.562579054
+Australia,AUS,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,0.161021576,0.170454143,0.150874542,0.130303033,0.12588061
+Austria,AUT,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,0.749691915,0.729485626,0.708653138,0.664060393,0.666719023
+Afghanistan,AFG,"Plant species (higher), threatened",EN.HPT.THRD.NO,..,..,..,5,..
+Albania,ALB,"Plant species (higher), threatened",EN.HPT.THRD.NO,..,..,..,4,..
+Australia,AUS,"Plant species (higher), threatened",EN.HPT.THRD.NO,..,..,..,108,..
+Austria,AUT,"Plant species (higher), threatened",EN.HPT.THRD.NO,..,..,..,17,..
+Afghanistan,AFG,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,61.2526558,56.28704672,56.91080835,..,..
+Albania,ALB,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.51253962,18.18993375,18.20060252,..,..
+Australia,AUS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,9.320015289,8.614508924,8.550324401,..,..
+Austria,AUT,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,13.54109517,12.59681605,12.47796673,..,..
+Afghanistan,AFG,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100,100,100,..,..
+Albania,ALB,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100,100,100,..,..
+Australia,AUS,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,26.04666675,24.90420852,24.89358377,..,..
+Austria,AUT,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,91.47446535,85.01593469,85.05153767,..,..
+Afghanistan,AFG,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,99.83457048,99.63783715,99.66294971,..,..
+Albania,ALB,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,0,0,0,..,..
+Australia,AUS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,0,0,0,..,..
+Austria,AUT,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,0,0,0,..,..
+Afghanistan,AFG,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,100,99.99964677,100,..,..
+Albania,ALB,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,4.319194563,3.109564439,3.097346108,..,..
+Australia,AUS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,0.370477163,0,0,..,..
+Austria,AUT,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,0,0,0,..,..
+Afghanistan,AFG,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,100,100,100,..,..
+Albania,ALB,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,93.22256509,83.43250815,84.61336605,..,..
+Australia,AUS,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,13.62224639,9.220748288,9.220718344,..,..
+Austria,AUT,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,25.88462946,8.649987414,14.13716593,..,..
+Afghanistan,AFG,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,71.30000305,..,70.69999695,..
+Albania,ALB,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..
+Australia,AUS,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..
+Austria,AUT,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..
+Afghanistan,AFG,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,80679314.06,99469761.46,-29571651.87,142704200.5,-14623495.63
+Albania,ALB,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,-254256925.4,245500179.6,-100676648.1,-80670600.46,154704213.1
+Australia,AUS,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,-42228978475,31210790667,-23718735774,14855578628,32990092828
+Austria,AUT,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,15635864058,26648727355,21361937960,4117919283,-3835255637
+Afghanistan,AFG,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,74.2561,81.2033,78.247,94.704,99.5084
+Albania,ALB,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,94.48,95.9058,101.3905,95.791,94.6726
+Australia,AUS,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,..,..,..,..,..
+Austria,AUT,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,..,..,..,..,..
+Afghanistan,AFG,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,..,..,..,..,..
+Albania,ALB,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,23.124,8.8,25.3,20.4,42.94
+Australia,AUS,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,401600,413490,..,..,..
+Austria,AUT,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,20814,21361,22256,21996.241,21736
+Afghanistan,AFG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,..,..,..,..,..
+Albania,ALB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,6.99,3.2,2.4,2.7,..
+Australia,AUS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,16016.86065,16503.75857,17039.19373,17585.94717,..
+Austria,AUT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,12208,12578,12656.7,13204.7,..
+Afghanistan,AFG,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,86.05011125,..,..,..,..
+Albania,ALB,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100,..,..,..,..
+Australia,AUS,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,13.63784109,..,..,..,..
+Austria,AUT,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,76.49077927,..,..,..,..
+Afghanistan,AFG,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.53,19.92,19.21,17.96,18.51
+Albania,ALB,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.47,39.43,37.07,38.11,40.2
+Australia,AUS,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.31,9.42,9.69,9.67,10.13
+Austria,AUT,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.82,34.64,33.98,34.11,33.77
+Afghanistan,AFG,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,..,..,1299.037286,1268.430552,..
+Albania,ALB,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,..,..,9361.545907,9384.672359,..
+Australia,AUS,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,..,..,19998.48792,19693.63745,..
+Austria,AUT,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,..,..,6251.729171,6221.352791,..
+Afghanistan,AFG,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,..,..,47.15000153,47.15000153,..
+Albania,ALB,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,..,..,26.89999962,26.89999962,..
+Australia,AUS,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,..,..,492,492,..
+Austria,AUT,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,..,..,55,55,..
+Afghanistan,AFG,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,..,..,..,..,..
+Albania,ALB,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,..,..,..,..,..
+Australia,AUS,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.920830011,..,1.879259944,..,1.829280019
+Austria,AUT,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,3.049690008,3.116549969,3.05656004,3.090579987,3.129719973
+Afghanistan,AFG,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,3644.983442,3454.686816,3198.077226,3104.180593,2907.216903
+Albania,ALB,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,12196.90035,12043.24686,11785.116,11345.53608,11844.28191
+Australia,AUS,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,98656.7468,..,..,..,..
+Austria,AUT,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,81895.41668,81541.25393,80882.13098,81768.8908,82115.66066
+Afghanistan,AFG,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,40,40,40,40,40
+Albania,ALB,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,100,100,100,80,90
+Australia,AUS,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,..,..,..,..,..
+Austria,AUT,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,..,..,..,..,..
+Afghanistan,AFG,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,51.1111,51.1111,51.1111,50,50
+Albania,ALB,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,72.22223333,82.22223333,88.8889,82.22223333,78.8889
+Australia,AUS,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,..,..,..,..,..
+Austria,AUT,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,..,..,..,..,..
+Afghanistan,AFG,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,..,..,..,8.38,..
+Albania,ALB,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,1.24,1.44,1.22,1.47,1.47
+Australia,AUS,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,2.5,2.3,2.23,2.22,2.03
+Austria,AUT,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,2.73,2.48,2.48,2.46,2.55
+Afghanistan,AFG,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,..,..,..,11.04,..
+Albania,ALB,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,2.69,2.87,2.95,3.36,3.36
+Australia,AUS,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,1.43,1.33,1.3,1.31,1.22
+Austria,AUT,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,5.69,5.32,5.16,5.24,5.87
+Afghanistan,AFG,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,..,..,..,5.63,..
+Albania,ALB,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,1.11,1.06,0.85,1.02,1.02
+Australia,AUS,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,1.9,1.18,0.89,0.86,0.77
+Austria,AUT,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,2.02,2.09,1.96,1.83,1.84
+Afghanistan,AFG,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,..,..,..,6.41,..
+Albania,ALB,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,0.66,0.75,0.63,0.77,0.77
+Australia,AUS,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,2.31,1.41,0.97,0.95,0.83
+Austria,AUT,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,2.26,2.12,2.08,1.98,2.01
+Afghanistan,AFG,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,..,..,..,4.94,..
+Albania,ALB,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,1.95,1.82,1.26,1.99,1.99
+Australia,AUS,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,0.52,0.44,0.62,0.58,0.6
+Austria,AUT,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,1.69,2.1,1.84,1.59,1.64
+Afghanistan,AFG,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,7.585382331,9.502652783,9.898450897,..,..
+Albania,ALB,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,18.51578986,17.59022981,18.88749198,18.54595166,18.14437719
+Australia,AUS,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,21.88426984,22.27430773,22.08576752,23.19351734,23.41770851
+Austria,AUT,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,26.82616742,25.41916923,25.42222618,25.40761932,25.55971855
+Afghanistan,AFG,tax revenue (current LCU),GC.TAX.TOTL.CN,92750755157,1.16E+11,1.27E+11,..,..
+Albania,ALB,tax revenue (current LCU),GC.TAX.TOTL.CN,2.66E+11,2.59E+11,2.93E+11,3.04E+11,3.07E+11
+Australia,AUS,tax revenue (current LCU),GC.TAX.TOTL.CN,3.55E+11,3.69E+11,3.89E+11,4.27E+11,4.56E+11
+Austria,AUT,tax revenue (current LCU),GC.TAX.TOTL.CN,92354240000,90900970000,93900010000,97927050000,1.02E+11
+Afghanistan,AFG,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,0.10470704,0.104707035,0.104707035,0.104707032
+Albania,ALB,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,13.14774946,13.52568255,13.52568255,14.17392921
+Australia,AUS,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,28.59184172,29.70879373,29.70879373,29.70879173
+Austria,AUT,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,28.44398259,28.39798166,28.39798166,28.41688347
+Afghanistan,AFG,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,..,0.1,0.104707035,0.104707035,0.104707
+Albania,ALB,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,..,17.21,17.73609531,17.73609531,18.58981
+Australia,AUS,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,..,16.98,19.26562231,19.26562231,19.26562
+Austria,AUT,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,..,28.44,28.39798166,28.39798166,28.41688
+Afghanistan,AFG,Total fisheries production (metric tons),ER.FSH.PROD.MT,7200,8050,9000,10000,..
+Albania,ALB,Total fisheries production (metric tons),ER.FSH.PROD.MT,11350.5,12611.7002,12994.2002,14906.2998,..
+Australia,AUS,Total fisheries production (metric tons),ER.FSH.PROD.MT,286995.9375,313409.2813,319470.375,322235.2188,..
+Austria,AUT,Total fisheries production (metric tons),ER.FSH.PROD.MT,3853.399902,3833.399902,4211.600098,4340.600098,..
+Afghanistan,AFG,Total reserves in months of imports,FI.RES.TOTL.MO,9.77019396,11.82806038,12.13427664,12.17858686,13.74890911
+Albania,ALB,Total reserves in months of imports,FI.RES.TOTL.MO,7.037583701,6.543502567,6.574895205,6.370557437,5.94458817
+Australia,AUS,Total reserves in months of imports,FI.RES.TOTL.MO,1.608981926,1.903524114,2.104092471,1.595000978,1.812415508
+Austria,AUT,Total reserves in months of imports,FI.RES.TOTL.MO,1.271902417,1.248241382,1.059624422,1.019144704,1.065930221
+Afghanistan,AFG,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,..,..,1.030269554,..,..
+Albania,ALB,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,..,..,10.27912448,..,..
+Australia,AUS,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,..,..,89.12533927,..,..
+Austria,AUT,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,..,..,114.2572798,..,..
