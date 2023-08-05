@@ -9,7 +9,7 @@ require("dotenv").config();
 
 //create express app
 const app = express();
-const port = 3000;
+const PORT = process.env.PORT || 3000;
 
 //parsing middleware
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -47,6 +47,7 @@ pool.getConnection((err, connection) => {
 });
 const routes = require("./server/routes/user");
 app.use("/", routes);
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`);
+
+app.listen(PORT, () => {
+  console.log(`Example app listening at us-cdbr-east-06.cleardb.net:${PORT}`);
 });
