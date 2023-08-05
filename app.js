@@ -23,22 +23,22 @@ app.engine("hbs", exphbs({ extname: ".hbs" }));
 app.set("view engine", "hbs");
 
 // Create a connection pool for local host
-/* const pool = mysql.createPool({
+const pool = mysql.createPool({
   connectionLimit: 10, // adjust as needed
   host: "127.0.0.1",
   user: "admin",
   password: "",
   database: "worldbankdata",
-}); */
+});
 
 // Create a connection pool for cloud database
-const pool = mysql.createPool({
+/* const pool = mysql.createPool({
   connectionLimit: 10,
   host: "us-cdbr-east-06.cleardb.net",
   user: "ab275bc5ed587c1",
   password: "c7e8c847",
   database: "heroku_8c1da5de8b5f129",
-});
+}); */
 
 //connect to database
 pool.getConnection((err, connection) => {
@@ -49,5 +49,6 @@ const routes = require("./server/routes/user");
 app.use("/", routes);
 
 app.listen(PORT, () => {
-  console.log(`Example app listening at us-cdbr-east-06.cleardb.net:${PORT}`);
+  const clickableLink = `http://localhost:${PORT}`;
+  console.log(`Example app listening at ${clickableLink}`);
 });
