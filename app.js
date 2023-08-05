@@ -47,8 +47,6 @@ pool.getConnection((err, connection) => {
 });
 const routes = require("./server/routes/user");
 app.use("/", routes);
-
-app.listen(PORT, () => {
-  const clickableLink = `http://localhost:${PORT}`;
-  console.log(`Example app listening at ${clickableLink}`);
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`);
 });
